@@ -1,0 +1,12 @@
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\bin\Debug\net7.0\CalculatorSalary.deps.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\bin\Debug\net7.0\CalculatorSalary.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\bin\Debug\net7.0\CalculatorSalary.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\refint\CalculatorSalary.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\CalculatorSalary.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day2\CalculatorSalary\obj\Debug\net7.0\ref\CalculatorSalary.dll

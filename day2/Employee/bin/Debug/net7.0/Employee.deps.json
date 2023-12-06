@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Employee/1.0.0": {
+        "dependencies": {
+          "CalculatorSalary": "1.0.0"
+        },
+        "runtime": {
+          "Employee.dll": {}
+        }
+      },
+      "CalculatorSalary/1.0.0": {
+        "runtime": {
+          "CalculatorSalary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorSalary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
