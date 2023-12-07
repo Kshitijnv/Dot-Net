@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\bin\Debug\net7.0\EmployeeArray.exe
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\bin\Debug\net7.0\EmployeeArray.deps.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\bin\Debug\net7.0\EmployeeArray.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\bin\Debug\net7.0\EmployeeArray.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\bin\Debug\net7.0\EmployeeArray.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\refint\EmployeeArray.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\EmployeeArray.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day3\EmployeeArray\obj\Debug\net7.0\ref\EmployeeArray.dll
