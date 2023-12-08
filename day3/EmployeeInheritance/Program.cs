@@ -13,6 +13,9 @@ namespace EmployeeInheritance
             Console.WriteLine(o);
             Console.WriteLine(o2);
             Console.WriteLine(o3);
+
+            Console.WriteLine("Name of GM: " + (o2 as GeneralManager).Name);
+        
         }
     }
     public interface IDbFunctions
@@ -140,6 +143,20 @@ namespace EmployeeInheritance
         {
             return base.ToString() + "designation = " + Designation + " ";
         }
+        public new void Insert()
+        {
+            Console.WriteLine("insert method - Manager class");
+        }
+
+        public new void Delete()
+        {
+            Console.WriteLine("delete method - Manager  class");
+        }
+
+        public new void Update()
+        {
+            Console.WriteLine("update method - Manager  class");
+        }
     }
 
     public class GeneralManager : Manager,IDbFunctions
@@ -164,6 +181,20 @@ namespace EmployeeInheritance
         {
             return base.ToString() + "perks = " + Perks + " ";
         }
+        public new void Insert()
+        {
+            Console.WriteLine("insert method - General Manager class");
+        }
+
+        public new void Delete()
+        {
+            Console.WriteLine("delete method - General Manager  class");
+        }
+
+        public new void Update()
+        {
+            Console.WriteLine("update method - General Manager  class");
+        }
     }
 
     public class CEO : Employee,IDbFunctions
@@ -187,6 +218,19 @@ namespace EmployeeInheritance
         }
 
         public CEO(string name = "default", short deptNo = 1) : base(name,deptNo) { }
-       
+        public new void Insert()
+        {
+            Console.WriteLine("insert method - CEO class");
+        }
+
+        public new void Delete()
+        {
+            Console.WriteLine("delete method - CEO  class");
+        }
+
+        public new void Update()
+        {
+            Console.WriteLine("update method - CEO  class");
+        }
     }
 }
