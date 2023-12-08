@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\bin\Debug\net7.0\ArrayToList.exe
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\bin\Debug\net7.0\ArrayToList.deps.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\bin\Debug\net7.0\ArrayToList.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\bin\Debug\net7.0\ArrayToList.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\bin\Debug\net7.0\ArrayToList.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\refint\ArrayToList.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ArrayToList.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day4\ArrayToList\obj\Debug\net7.0\ref\ArrayToList.dll
