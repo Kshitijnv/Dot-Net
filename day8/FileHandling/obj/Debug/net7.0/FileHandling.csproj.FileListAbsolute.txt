@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\bin\Debug\net7.0\FileHandling.exe
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\bin\Debug\net7.0\FileHandling.deps.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\bin\Debug\net7.0\FileHandling.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\bin\Debug\net7.0\FileHandling.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\bin\Debug\net7.0\FileHandling.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\refint\FileHandling.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\FileHandling.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Net\day8\FileHandling\obj\Debug\net7.0\ref\FileHandling.dll

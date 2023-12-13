@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\bin\Debug\net7.0\try.exe
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\bin\Debug\net7.0\try.deps.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\bin\Debug\net7.0\try.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\bin\Debug\net7.0\try.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\bin\Debug\net7.0\try.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\refint\try.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\try.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\try\obj\Debug\net7.0\ref\try.dll

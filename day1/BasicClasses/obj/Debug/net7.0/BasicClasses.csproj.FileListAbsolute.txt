@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\bin\Debug\net7.0\BasicClasses.exe
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\bin\Debug\net7.0\BasicClasses.deps.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\bin\Debug\net7.0\BasicClasses.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\bin\Debug\net7.0\BasicClasses.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\bin\Debug\net7.0\BasicClasses.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\refint\BasicClasses.dll
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.pdb
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\BasicClasses.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Documents\KshitijDAC2023\Dot Not\day1\BasicClasses\obj\Debug\net7.0\ref\BasicClasses.dll
