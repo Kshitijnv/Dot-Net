@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpWebApiEF", "EmpWebApiEF.csproj", "{95A99F46-6E8E-467E-A199-0C23BD1C78FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A99F46-6E8E-467E-A199-0C23BD1C78FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A99F46-6E8E-467E-A199-0C23BD1C78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A99F46-6E8E-467E-A199-0C23BD1C78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A99F46-6E8E-467E-A199-0C23BD1C78FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B689AC-E632-4FB1-8134-614CD1408FC0}
+	EndGlobalSection
+EndGlobal

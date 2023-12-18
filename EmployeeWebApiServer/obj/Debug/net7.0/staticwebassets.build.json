@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N6S4AIGmZ7Yckd2qtGsYwdLRcs2b0ELYyC/MBTgOzI4=",
+  "Source": "EmployeeWebApiServer",
+  "BasePath": "_content/EmployeeWebApiServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
