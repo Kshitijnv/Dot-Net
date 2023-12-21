@@ -11,6 +11,6 @@ namespace Employee_Management_MVC.DAL
         string UpdateEmployee(Employee employee);
 
         //add a method to display the details of choosen employee
-        Employee GetEmployeeById(int id);
+        Employee? GetEmployeeById(int id);
     }
 }

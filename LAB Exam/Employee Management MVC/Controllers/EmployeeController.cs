@@ -51,7 +51,7 @@ namespace Employee_Management_MVC.Controllers
         // GET: EmployeeController/Edit/5
         public ActionResult Edit(int id)
         {
-            Employee employee = _employeeRepository.GetEmployeeById(id);
+            Employee? employee = _employeeRepository.GetEmployeeById(id);
             return View(employee);
         }
 
